@@ -1,6 +1,6 @@
-# 数论模板
+## 数论
 
-### 拓展中国剩余定理
+### 扩展中国剩余定理
 ```cpp
 template<class T> 
 T exgcd(T a, T b, T &x, T &y) {
